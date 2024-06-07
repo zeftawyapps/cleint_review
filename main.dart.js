@@ -50536,7 +50536,7 @@ if(m==null)m=c
 m=A.E9(A.a([new A.jl()],q),d.r,A.nm(c,c,c,c,c,c,c,c,!0,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,A.es(B.MB,B.bu,c,c),c,c,c,c,c,c,c,c,c,c,c),b,m,!1,"phoneCard","\u0631\u0642\u0645 \u0627\u0644\u0634\u0631\u064a\u062d\u0629",B.mH,A.bi(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,!0,c,c,c,c,c,c,c,c))
 l=A.co(c,20*$.aM().ge9(),c)
 k=$.aM().ge9()
-j=A.aab(Date.now()-B.e.c4(A.bL(1,0,0,0,0).a,1000),!1)
+j=A.aab(Date.now()-B.e.c4(A.bL(1000,0,0,0,0).a,1000),!1)
 i=new A.aN(Date.now(),!1).H(0,A.bL(365,0,0,0,0))
 i=A.bE(A.aHK(A.a([new A.jl()],q),A.nm(c,c,c,c,c,c,c,c,!0,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,A.es(B.pj,B.bu,c,c),c,c,c,c,c,c,c,c,c,c,c),j,b,c,"startDate","\u062a\u0627\u0631\u064a\u062e \u0627\u0644\u0628\u062f\u0627\u064a\u0629",i,new A.av9(d),A.bi(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,!0,c,c,c,c,c,c,c,c)),1,c)
 j=A.co(c,c,5*$.aM().gh9())
